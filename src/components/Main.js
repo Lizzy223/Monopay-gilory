@@ -3,6 +3,11 @@ import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 import Data from './Data';
 import './Main.css'
+//import MonoConnect from '@mono.co/connect.js'
+
+// export default function App(){
+//     const monoConnect
+// }
 
 const Main = () => {
     return (
